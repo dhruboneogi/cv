@@ -1,0 +1,154 @@
+.body{
+  position: relative;
+}
+.name{
+  position: absolute;
+  top: 100px;
+  left: 375px;
+  text-align: center;
+  font-family: 'Quintessential', cursive;
+  font-size: 35px;
+  height: 350px;
+}
+
+.cricket{
+  height:200px;
+  position:relative;
+}
+
+.cric_img{
+  position:absolute;
+  height: 150px;
+  margin-top: 50px;
+  margin-left: 300px;
+}
+
+.cric_info{
+  background-color: #FFC288;
+  position: absolute;
+  height:auto;
+  width: 450px;
+  padding-right: 15px;
+  margin: 75px 300px auto 475px;
+  font-size: 30px;
+}
+
+.cert_1{
+  width: 300px;
+  position: absolute;
+  top: 100px;
+  left:35px;
+}
+
+.history{
+  height:250px;
+  position:relative;
+}
+
+.hist_img{
+  position: absolute;
+  width:150px;
+  top: 40px;
+  right: 400px;
+}
+
+.hist_info{
+  background-color: #9EDE73;
+  position: absolute;
+  height:auto;
+  width: 450px;
+  padding-left: 15px;
+  top:15px;
+  left: 300px;
+  font-size: 30px;
+}
+
+.Div-1{
+  background-color: #C8F2EF;
+  height:400px;
+}
+
+.info{
+  margin-top: 0;
+  height:200px;
+  position: relative;
+}
+
+.info2{
+  margin-top: 20px;
+  height:200px;
+  width: 900px;
+  position: relative;
+}
+
+.hobbies{
+padding-top: 15px;
+  font-family: 'Supermercado One', cursive;
+  font-size: 37px;
+  font-style: oblique;
+  color: #FC0273;
+}
+
+.webDev{
+  height:100px;
+  position: absolute;
+  top:85px;
+  right:0;
+}
+
+.skills{
+  margin-top: 50px;
+  margin-left:550px;
+  font-family: 'Supermercado One', cursive;
+  font-size: 37px;
+  font-style: oblique;
+  color: #FC0273;
+  margin-bottom: -40px;
+}
+
+.dev_info{
+  background-color: #FEECE9;
+  position: absolute;
+  left:300px;
+  right:120px;
+  top:50px;
+  font-size: 30px;
+}
+
+.programmer{
+  height:100px;
+  position: absolute;
+  top:100px;
+  left:350px;
+}
+
+.prog_info{
+  background-color: #FFE162;
+  position: absolute;
+  top:80px;
+  left:500px;
+  padding-left: 15px;
+  margin-right: 400px;
+  font-size: 30px;
+}
+
+.logo{
+  position: absolute;
+  left:50px;
+  top:100px;
+}
+
+.para1{
+  font-family: 'Bad Script', cursive;
+  font-size: 35px;
+  position: absolute;
+  top:180px;
+  left: 350px;
+}
+
+.cert_2{
+  width: 300px;
+  position: absolute;
+  right: 35px;
+  top: 100px;
+}
